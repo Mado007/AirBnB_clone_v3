@@ -12,7 +12,6 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [Environment](#environment)
 * [Installation](#installation)
 * [File Descriptions](#file-descriptions)
-* [Usage](#usage)
 * [Examples of use](#examples-of-use)
 * [Bugs](#bugs)
 * [Authors](#authors)
@@ -154,9 +153,17 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+Mahmoud Eid - [Github](https://github.com/Mado007) / [Twitter](https://twitter.com/Mahmoud_Eid00) 
+<br />
+Yasmine Had-dad - [Github](https://github.com/jasmineH-D) / [Twitter](https://twitter.com/had_yasmine) 
+<br />
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
 Second part of Airbnb: Joann Vuong
+
 ## License
 Public Domain. No copy write protection. 
+
+Copyright © 2023-2024 <br />
+This project is [Holberton School](https://github.com/holbertonschool) | [Alx Africa](https://www.alxafrica.com/)  licensed.
